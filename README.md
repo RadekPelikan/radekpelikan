@@ -82,6 +82,6 @@ A simple 2D platformer game made with p5js library. I wanted to try to code some
 <br>
 
 ---
-<!--
+
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=radekpelikan&show_icons=true&locale=en&layout=compact" height="160px" alt="radekpelikan" />
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=radekpelikan&show_icons=true&locale=en"  height="160px" alt="radekpelikan" />
