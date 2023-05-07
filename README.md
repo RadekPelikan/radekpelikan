@@ -1,6 +1,6 @@
 <h1 align="center">Wassup 👋, I'm Radek</h1>
 
-<h3 align="center">19 year old developer from Czech republic passionate mainly in Python. You can view my CV <a href="./assets/CV.pdf">here</a></h3>
+<h3 align="center">Full stack developer passionate mainly in Python. You can view my CV <a href="./assets/CV.pdf">here</a></h3>
 
 - 💬 Ask me about **python, java, JS, TS, node**
 
