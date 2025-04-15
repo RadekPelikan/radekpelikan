@@ -26,7 +26,7 @@
 ## Recent projects
 
 <a href="https://github.com/RadekPelikan/year_project-Socket.io-client">
-<img align="left" src="https://raw.githubusercontent.com/RadekPelikan/year_project-Socket.io-client/main/docs/img/title%20image.png" width="350px" alt="year_project-Socket.io-client" />
+<img align="left" src="https://raw.githubusercontent.com/RadekPelikan/Draw2gether/refs/heads/main/client/docs/img/title%20image.png" width="350px" alt="year_project-Socket.io-client" />
 </a>
 
 ### Draw2gether
