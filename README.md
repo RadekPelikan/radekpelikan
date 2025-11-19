@@ -1,14 +1,14 @@
 <h1 align="center">Wassup 👋, I'm Radek</h1>
 
-<h3 align="center">Junior full stack developer passionate mainly in Python. You can view my CV <a href="./assets/CV.pdf">here</a></h3>
+<h3 align="center">Medior .NET developer & teacher at <a href="https://www.spsmb.cz/">SPSMB</a>. You can <a href="./assets/CV.pdf">view my CV here</a></h3>
 
-- 💬 Ask me about **python, java, JS, TS, node**
+- 💬 Ask me about **.NET, python, java, JS, TS, node**
 
 - 📫 How to reach me **pelikan.radek03@gmail.com**
 
 - ⚡ Fun fact **Sometimes I do video gamin 🎮**
 
-- 📚 I'm learning **C#, ASP.NET**
+- 📚 I'm learning **flutter, Astro.build, bun, Astro**
 
 ### Connect with me
 
