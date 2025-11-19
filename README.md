@@ -13,7 +13,7 @@
 ### Connect with me
 
 <p align="left">
-<a href="https://linkedin.com/in/radek-pelikán-447a84234" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radek-pelikán-447a84234" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/radekpelikan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="radek-pelikán-447a84234" height="30" width="40" /></a>
 <a href="https://instagram.com/radek.peli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="radek.peli" height="30" width="40" /></a>
 </p>
 
